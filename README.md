@@ -36,6 +36,7 @@ Below you can find some screenshoot of the application
 <img src="https://i.imgur.com/FhB9zTO.png" width="400px" height="400px" alt="Manage Offers">
 <img src="https://i.imgur.com/30AgmBg.png" width="400px" height="400px" alt="Drops">
 <img src="https://i.imgur.com/wrL4dk7.png" width="400px" height="400px" alt="Drops Monitoring">
+<img src="https://i.imgur.com/SeT1LCh.png" width="400px" height="400px" alt="Drops Monitoring">
 </p>
 
  
